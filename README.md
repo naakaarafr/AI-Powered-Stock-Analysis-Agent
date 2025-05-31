@@ -84,8 +84,8 @@ This project leverages the CrewAI framework and Google's Gemini Large Language M
 1. **Clone the Repository 🐙:**
 
    ```bash
-   git clone <repository_url> 🚀
-   cd <repository_directory>
+   git clone https://github.com/naakaarafr/AI-Powered-Stock-Analysis-Agent.git
+   cd AI-Powered-Stock-Analysis-Agent
    ```
 
 2. **Create a Virtual Environment (Recommended) 🛡️:**
