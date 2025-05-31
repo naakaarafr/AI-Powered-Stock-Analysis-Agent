@@ -19,7 +19,7 @@ This report provides personalized investment recommendations for Apple (AAPL) ba
 
 *   **Risks:**
     *   **High Valuation:** The P/E ratio is relatively high, which could limit future price appreciation.
-    *   **Market Volatility:** The beta of 1.27 indicates that the stock is more volatile than the market, which could lead to short-term losses.
+    *   **Market Volatility:** The beta of 1.27 indicates that the stock is more volatile than the market, which could lead to short-term losses
     *   **Competition:** The technology industry is highly competitive.
     *   **Economic Slowdown:** A global economic slowdown could negatively impact demand.
 *   **Mitigation:** The position sizing and stop-loss strategy are designed to mitigate these risks.
